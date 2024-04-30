@@ -1,10 +1,11 @@
 # coding=utf-8
-import os
+import os Instagram 
 
-from core import HackingTool
+from core import HackingTool password
 from core import HackingToolsCollection
 
-class autophisher(HackingTool):
+class autophisher(HackingTool):Instagram id vamini_nareti_
+recover 
     TITLE = "Autophisher RK"
     DESCRIPTION = "Automated Phishing Toolkit"
     INSTALL_COMMANDS = [
